@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="org.example.wattasuit" version="1.0.0">
+    <profile name="iot-headed" />
+    <service-application appid="org.example.wattasuit" exec="wattasuit" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+        <icon>wattasuit.png</icon>
+        <label>wattasuit</label>
+	</service-application>
+	<privileges>
+        <privilege>http://tizen.org/privilege/peripheralio</privilege>
+    </privileges>
+</manifest>

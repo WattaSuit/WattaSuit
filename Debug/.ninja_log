@@ -1,0 +1,13 @@
+# ninja log v5
+2	14038	0	src/LiquidCrystal_I2C.o	d5860a920bc66a30
+3	318	0	src/LiquidCrystal_I2C.o	d5860a920bc66a30
+13	321	0	src/LiquidCrystal_I2C.o	a826a6b9f6f8fb81
+11	304	0	src/LiquidCrystal_I2C.o	a826a6b9f6f8fb81
+0	420	0	clean_cov	b3de405e02eb7ca8
+420	469	0	clean_sa	46ab9549445ac981
+469	489	0	clean	d59b6dac04fa9b5d
+3	299	0	src/LiquidCrystal_I2C.o	a826a6b9f6f8fb81
+13	471	0	src/wattasuit.o	51d3a351dd389b11
+471	7890	0	wattasuit	7f994ad8d8e518d4
+1	1725	0	src/wattasuit.o	51d3a351dd389b11
+1725	2290	0	wattasuit	7f994ad8d8e518d4

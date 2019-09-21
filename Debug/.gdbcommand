@@ -1,0 +1,6 @@
+set sysroot H:\tizen-studio\platforms\tizen-5.0\iot-headed\rootstraps\iot-headed-5.0-device.core
+set debug-file-directory H:\tizen-studio\platforms\tizen-5.0\iot-headed\rootstraps\iot-headed-5.0-device.core\usr\lib\debug
+set solib-search-path G:\guswo\Dev\workspace\Tizen\Wattasuit\Debug
+dir H:\tizen-studio\platforms\tizen-5.0\iot-headed\rootstraps\iot-headed-5.0-device.core\usr\src\debug
+file "G:\guswo\Dev\workspace\Tizen\Wattasuit\Debug\wattasuit"
+sharedlibrary
